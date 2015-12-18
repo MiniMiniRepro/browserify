@@ -2,5 +2,8 @@
   "private": true,
   "dependencies": {
     "browserify": "12.0.1"
+  },
+  "scripts": {
+    "repro": "sh repro.sh"
   }
 }
